@@ -1,0 +1,6 @@
+{
+  "name": "SQL Query Linter & Style Fixer",
+  "description": "An interactive full-stack SQL query linter, auto-fixer, and AI-refactoring studio featuring customizable rules, real-time before/after diffs, and detailed reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
